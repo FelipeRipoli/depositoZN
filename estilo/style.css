@@ -256,7 +256,7 @@ body {
 }
 
 .loc {
-    display: flex;
+    display: ruby-text;
     justify-content: space-around; 
     background-color: red;
 }
