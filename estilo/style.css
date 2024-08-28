@@ -104,6 +104,8 @@ section.imagem{
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.413);
     background-size: cover;
     background-attachment: fixed;
+    max-width: 70%;
+    margin: auto;
 }
 
 section.imagem h2{
@@ -263,8 +265,8 @@ body {
 .loc iframe {
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    width: 65vh;
-    max-width: 800px; 
+    min-width: 55vh;
+    max-width: 60vh; 
     height: auto;
 }
 
