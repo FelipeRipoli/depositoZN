@@ -260,7 +260,7 @@ body {
     justify-content: center; 
     align-items: center;    
     padding: 20px;
-    min-width: 55vh;
+    background-color: red;
     max-width: 60vh; 
 }
 
