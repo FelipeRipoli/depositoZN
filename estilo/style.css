@@ -257,11 +257,8 @@ body {
 
 .loc {
     display: flex;
-    justify-content: center; 
-    align-items: center;    
-    padding: 20px;
+    justify-content: space-around; 
     background-color: red;
-    max-width: 60vh; 
 }
 
 .loc iframe {
