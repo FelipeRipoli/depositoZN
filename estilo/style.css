@@ -260,13 +260,13 @@ body {
     justify-content: center; 
     align-items: center;    
     padding: 20px;
+    min-width: 55vh;
+    max-width: 60vh; 
 }
 
 .loc iframe {
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    min-width: 55vh;
-    max-width: 60vh; 
     height: auto;
 }
 
